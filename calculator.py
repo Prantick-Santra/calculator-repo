@@ -22,3 +22,4 @@ else:
         print(f"The modulo of {num1} and {num2} is {num1%num2}")
     else:
         print(f"The modulo of {num2} and {num1} is {num2%num1}")
+print("Very Good")
